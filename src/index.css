@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    overflow-x: hidden;
+}
+.zzz{
+    display: none;
+}
+.red{
+    color:brown
+}
